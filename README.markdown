@@ -52,6 +52,7 @@ Additional contributions from:
 * Kunal Parmar
 * Olivier Iffrig
 * Zlodiy
+* Many more
 
 It is released under the terms of the GNU General Public License, version 3;
 See LICENSE file for details.
